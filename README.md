@@ -1,1 +1,1 @@
-# Moved to https://github.com/ffdead/jquery-graceful-websocket
+## Moved to [ffdead/jquery-graceful-websocket](https://github.com/ffdead/jquery-graceful-websocket)
